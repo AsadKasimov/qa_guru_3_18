@@ -1,4 +1,4 @@
-from selene import browser, have
+from selene import have
 from utils.base_session import demoshop
 
 
